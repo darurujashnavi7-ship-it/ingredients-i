@@ -1,0 +1,63 @@
+{
+    "biriyani": [
+        "Basmati rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Green chilli",
+        "Yogurt",
+        "Mint leaves",
+        "Coriander leaves",
+        "Biryani spices",
+        "Fried onions",
+        "Lemon",
+        "Salt",
+        "Oil or ghee"
+    ],
+    "butternaan": [
+        "Wheat flour",
+        "Yogurt",
+        "Milk",
+        "Butter",
+        "Salt",
+        "Sugar",
+        "Baking powder"
+    ],
+    "dosa": [
+        "Rice",
+        "Urad dal",
+        "Fenugreek seeds",
+        "Salt",
+        "Water"
+    ],
+    "gulab jamun": [
+        "Milk solids",
+        "Flour",
+        "Sugar",
+        "Water",
+        "Cardamom",
+        "Ghee or oil"
+    ],
+    "noodles": [
+        "Noodles",
+        "Onion",
+        "Carrot",
+        "Capsicum",
+        "Garlic",
+        "Soy sauce",
+        "Oil",
+        "Salt"
+    ],
+    "tandoori chicken": [
+        "Chicken",
+        "Yogurt",
+        "Ginger",
+        "Garlic",
+        "Red chilli powder",
+        "Turmeric",
+        "Garam masala",
+        "Lemon juice",
+        "Salt"
+    ]
+}

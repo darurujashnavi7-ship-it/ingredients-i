@@ -1,0 +1,1 @@
+Biryani ingredient images are included in this project. Image filenames use lowercase words and underscores, for example basmati_rice.jpg and mint_leaves.jpg. To add photos for other dishes, use filenames matching the ingredient names or aliases in app.py.
